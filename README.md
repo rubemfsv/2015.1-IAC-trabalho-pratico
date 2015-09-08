@@ -1,8 +1,11 @@
--> Universidade Federal de Alagoas <-
+<p align="center">
 
--> Instituto de Computação <-
+Universidade Federal de Alagoas
 
--> Disciplina: Introdução à Computação <-
+Instituto de Computação
+Disciplina: Introdução à Computação
+
+</p>
 
 -> Semestre letivo: 2015.1 <-
 

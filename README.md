@@ -9,3 +9,14 @@ Professor: André Lage Freita</br>
 
 
 # 2015.1-IAC-trabalho-pratico
+
+# Identificação
+
++* Página do repositório do trabalho ([link GitHub](https://github.com/rubemfsv/teaching/tree/master/2015.1-IAC-trabalho-pratico))
+
++* Discente 1
+	* Nome: Rubem Ferreira Santos Vasconcelos 
+	* Matrícula: TODO
+* Discente 2
+	* Nome: Vanessa Soares Vieira
+	* Matrícula: TODO

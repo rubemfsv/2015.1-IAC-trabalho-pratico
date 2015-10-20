@@ -16,7 +16,7 @@ Professor: André Lage Freita</br>
 
 * Discente 1
 	* Nome: Rubem Ferreira Santos Vasconcelos 
-	* Matrícula: TODO
+	* Matrícula: 15111988
 * Discente 2
 	* Nome: Vanessa Soares Vieira
-	* Matrícula: TODO
+	* Matrícula: 15112025

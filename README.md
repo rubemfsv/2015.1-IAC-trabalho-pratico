@@ -21,6 +21,11 @@ Professor: André Lage Freita</br>
 	* Nome: Vanessa Soares Vieira
 	* Matrícula: 15112025
 
+### Contextualização
+
+	Cada computador exexuta diversas tarefas "ao mesmo tempo", isso quer dizer que ele executa diversos processos, e esses são, de fato, as tarefas que estão em execução quase que simultaneamente - algumas delas ocorrem em plano de fundo, sem que o usuário note. Como abstração feita para o próprio usuário, é quase impossível perceber que os processos não estão sendo executados sincronicamente por serem realizados em um período de tempo infinitamente curto. 
+	Frequentemente, quando um processo está em execução, ele pode consumir bastante memória volátil do sistema, este é o caso dos processos que são abstraídos para o usuário (como o simples ato de abrir um arquivo, que faz executar em plano de fundo diversos processos até ser realizada a tarefa), que estão rodando por "trás" e consumindo a memória RAM. Quando muitas tarefas estão ocorrendo "simultaneamente", há uma queda no desempenho da unidade central de processamento (UCP), e ocorre um retardo durante a execução dos programas - além de haver um desperdício de memória.
+
 ### Contextualização.
 
 	Cada computador executa diversas tarefas “ao mesmo tempo”, isso quer dizer que ele executa diversos processos, e esses são, de fato, as tarefas que estão em execução quase que simultaneamente - algumas delas ocorrem em plano de fundo, sem que o usuário note. Como abstração feita para o próprio usuário, é impossível perceber que os processos não estão sendo executados sincronicamente por serem realizados eu um período de tempo infinitamente curto.

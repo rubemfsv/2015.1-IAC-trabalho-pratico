@@ -48,5 +48,8 @@ Há, no processo pai, a coleta dos dados com o auxílio da função getrusage() 
 
 
 
+### Conclusões Finais
 
+O objetivo do programa foi atingido com sucesso, pois além de compilar e executar cada caso de teste predefinido, foi possível inferir, a partir dos resultados apresentados nos gráficos abaixo, que o uso de memória foi o mesmo a cada segundo (e o total foi a soma de todos esses valores, ou seja, dez vezes o uso do primeiro segundo) e o uso da unidade central de processamento foi aumentando gradativamente. O valor em porcentagem da UCP pode parecer pequeno, isso porquê o processo filho foi forçado a parar após 10 segundos, ou seja, em um curto período de tempo o uso da UCP saiu de aproximadamente 0% até aproximadamente 20%, se o processo executasse por mais tempo é possível concluir que ao atingir 100%, ou até antes, o computador travaria.
 
+Os recursos de uma máquina são escassos, mas de extrema importância, a memória RAM é um periférico que funciona como memória temporária (ou volátil), o processador a utiliza para guardar dados enquanto o processo estiver executando, quando o computador é desligado, aquela informação já foi volatizada, ou seja, perdida. Quando salvo em um arquivo, os dados de um programa alocam o mesmo em algum espaço da memória permanente (HD, memória flash ou SSD). No caso do programa deste trabalho prático, há somente o uso da memória RAM. Quando há o uso intenso da CPU e da memória, sem a restrição do tempo, o computador também travaria.

@@ -62,7 +62,7 @@ Os recursos de uma máquina são escassos, mas de extrema importância, a memór
 
 ![UCP graph](http://imageshack.com/a/img910/6858/jkgdyQ.png)
 
-* Código do gráfico da UCP Cque foi realizado em Julia:
+* Código do gráfico da UCP Cque foi realizado em Julia (dados obtidos em um dos testes):
 
 ```julia
 plot(x=1:10, y=[0.28, 0.55, 0.83, 10.16, 10.39, 10.66, 10.94, 20.21, 20.47, 20.73],
@@ -75,7 +75,7 @@ Guide.title("Processo da UCP"))
 
 ![memory graph](http://imageshack.com/a/img911/5458/Y4Pps1.png)
 
-* Código do gráfico da memória que foi realizado em Julia:
+* Código do gráfico da memória que foi realizado em Julia (dados obtidos em um dos testes):
 
 ```julia
 plot(x=1:10, y=[532480, 532480*2, 532480*3, 532480*4, 532480*5, 532480*6, 532480*7, 532480*8, 532480*9, 532480*10],

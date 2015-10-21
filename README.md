@@ -22,7 +22,7 @@ Professor: André Lage Freita</br>
 	* Matrícula: 15112025
 
 
-### Contextualização.
+### Contextualização
 
 Cada computador executa diversas tarefas “ao mesmo tempo”, isso quer dizer que ele executa diversos processos, e esses são, de fato, as tarefas que estão em execução quase que simultaneamente - algumas delas ocorrem em plano de fundo, sem que o usuário note. Como abstração feita para o próprio usuário, é impossível perceber que os processos não estão sendo executados sincronicamente por serem realizados eu um período de tempo infinitamente curto.
 
@@ -62,7 +62,7 @@ Os recursos de uma máquina são escassos, mas de extrema importância, a memór
 
 ![UCP graph](http://imageshack.com/a/img910/6858/jkgdyQ.png)
 
-* Código do gráfico da UCP Cque foi realizado em Julia (dados obtidos em um dos testes):
+* Código do gráfico da UCP que foi realizado em Julia (dados obtidos em um dos testes):
 
 ```julia
 plot(x=1:10, y=[0.28, 0.55, 0.83, 10.16, 10.39, 10.66, 10.94, 20.21, 20.47, 20.73],

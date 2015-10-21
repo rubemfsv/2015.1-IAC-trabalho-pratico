@@ -83,4 +83,3 @@ Geom.point, Geom.line,
 Guide.xlabel("Tempo em segundos"), Guide.ylabel("Uso da memória (em Kilobytes)"),
 Guide.title("Processo da Memória"))
 ```
-

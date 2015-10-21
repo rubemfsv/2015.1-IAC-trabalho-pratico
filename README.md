@@ -54,7 +54,7 @@ O objetivo do programa foi atingido com sucesso, pois além de compilar e execut
 
 Os recursos de uma máquina são escassos, mas de extrema importância, a memória RAM é um periférico que funciona como memória temporária (ou volátil), o processador a utiliza para guardar dados enquanto o processo estiver executando, quando o computador é desligado, aquela informação já foi volatizada, ou seja, perdida. Quando salvo em um arquivo, os dados de um programa alocam o mesmo em algum espaço da memória permanente (HD, memória flash ou SSD). No caso do programa deste trabalho prático, há somente o uso da memória RAM. Quando há o uso intenso da CPU e da memória, sem a restrição do tempo, o computador também travaria.
 
-![Iris](http://homes.cs.washington.edu/~dcjones/gadfly/iris.svg)
+![Iris](file:///var/folders/1p/fg4g1wk5117fghv1gl9l8p0w0000gp/T/juliaaavxU9.html)
 
 ```julia
 plot(x=1:10, y=[0.28, 0.55, 0.83, 10.16, 10.39, 10.66, 10.94, 20.21, 20.47, 20.73],

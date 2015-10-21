@@ -62,6 +62,8 @@ Os recursos de uma máquina são escassos, mas de extrema importância, a memór
 
 ![UCP graph](http://imageshack.com/a/img910/6858/jkgdyQ.png)
 
+* Código do gráfico que foi realizado em Julia:
+
 ```julia
 plot(x=1:10, y=[0.28, 0.55, 0.83, 10.16, 10.39, 10.66, 10.94, 20.21, 20.47, 20.73],
 Geom.point, Geom.line,

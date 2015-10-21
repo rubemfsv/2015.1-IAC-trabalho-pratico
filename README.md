@@ -54,6 +54,12 @@ O objetivo do programa foi atingido com sucesso, pois além de compilar e execut
 
 Os recursos de uma máquina são escassos, mas de extrema importância, a memória RAM é um periférico que funciona como memória temporária (ou volátil), o processador a utiliza para guardar dados enquanto o processo estiver executando, quando o computador é desligado, aquela informação já foi volatizada, ou seja, perdida. Quando salvo em um arquivo, os dados de um programa alocam o mesmo em algum espaço da memória permanente (HD, memória flash ou SSD). No caso do programa deste trabalho prático, há somente o uso da memória RAM. Quando há o uso intenso da CPU e da memória, sem a restrição do tempo, o computador também travaria.
 
+
+
+### Utilização Intensa da UCP e Memória
+
+#### UCP
+
 ![UCP graph](http://imageshack.com/a/img910/6858/jkgdyQ.png)
 
 ```julia
